@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Bingo</string>
+    <string name="next_number">次の数字を出す</string>
+</resources>

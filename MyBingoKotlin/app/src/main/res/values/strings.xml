@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Bingo Kotlin</string>
+    <string name="nextNumber">次の数字を出す</string>
+</resources>
